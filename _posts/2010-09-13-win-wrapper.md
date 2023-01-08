@@ -10,6 +10,8 @@ Sorry about that.
 
 However, in its place I have for you this very post which will teach you how to accomplish creating such a wrapper all by yourself. I hope that is okay since all you really need to know is the how to create a window procedure that you can use with your custom class.
 
+<!--more-->
+
 ## The Window Procedure
 
 The window procedure is a function that is tied to a window upon creation. This function handles the window's events (also: messages, notifications) such as `WM_PAINT`, `WM_SIZE` and a plethora of others that a window can throw at you. The trick is to pass a function callback to `WNDCLASS` or `WNDCLASSEX` that is part of your class, which is pretty much impossible since you can't pass instance members by reference. Let's take a look at a standard windows procedure:

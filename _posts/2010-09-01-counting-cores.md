@@ -6,6 +6,8 @@ layout: single
 
 Here's a little snippet I'd like to share with you since there really isn't a good example online that shows you how to count the processor cores and threads on Microsoft Windows using the Windows API through C++.
 
+<!--more-->
+
 If you have the need to count cores, or if you wish to determine if the system running your program is multicore, this snippet can come in handy.
 
 By “counting threads” I mean counting the logical processors present, since Hyper-Threaded processors may display multiple logical cores per physical core — counting these is the tricky part.

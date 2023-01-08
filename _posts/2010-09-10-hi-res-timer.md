@@ -8,6 +8,8 @@ This post lists the code for creating a high resolution timer for the Microsoft 
 
 This is a heavily modified re-post of the article that used to be on the Scriptionary.com website before the change to the blog, read the source code for details.
 
+<!--more-->
+
 ```c++
 #ifndef _TIMER_H_
 #define _TIMER_H_

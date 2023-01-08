@@ -4,11 +4,11 @@ title:  "Elementary OS First Impressions"
 date:   2016-10-30 00:00:00 -0700
 ---
 
+![elementary OS](/images/elementary-1.png)
+
 It's been about a week of using elementary OS and I've compiled a few of my first impressions. First off, I want to start off with that I understand that elementary is still somewhat immature, so don't take any of the criticism as me putting the project on blast. Far from it, in fact, but more on that later.
 
 <!--more-->
-
-![elementary OS](/images/elementary-1.png)
 
 Installing elementary OS was a breeze. It's about as simple as installing macOS from a USB dongle. All my Intel NUC's onboard hardware was properly detected, HDD partitioning was not an issue and all happened automatically, and there was an option to enable encryption wherever it was applicable. Great process overall.
 

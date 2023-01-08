@@ -6,6 +6,8 @@ layout: single
 
 It's almost weekend, and time for a lighthearted post on the two realtime 3D computer graphics libraries that are available on Windows in 2011: OpenGL and Direct3D. The reason I mention the year is simply because of the fact that two years from now, this information will be as untrue as the Wikipedia article[*](https://web.archive.org/web/20150223211220/http://en.wikipedia.org/wiki/Talk:Comparison_of_OpenGL_and_Direct3D) on this matter due to rapid hardware and software developments. But for now, let's bash it out.
 
+<!--more-->
+
 ## A (skippable) Condensed History
 
 About ten years ago, in the first days of Windows XP (D3D 8.1 / GL 1.3), there wasn't a clear winner when it came to picking a realtime 3D library on Windows. Both OpenGL and Direct3D were viable libraries to use and it really wasn't until 2002 that OpenGL needed to pick up some slack when Direct3D 9.0 was released with support for high level shaders through HLSL (High Level Shader Language). In 2004, OpenGL 2.0 was released with GLSL (OpenGL Shading Language), and for a while the libraries were competing again on the PC.

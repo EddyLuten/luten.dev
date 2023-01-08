@@ -9,6 +9,8 @@ Happy New Year! So you want to delete everything you've ever liked on Twitter?
 
 Open up your browser's developer console and paste this one-liner:
 
+<!--more-->
+
 ```js
 window.setInterval(() => { document.querySelectorAll('[data-testid="unlike"]').forEach(e => e.click()); window.scrollTo(0,document.body.scrollHeight); }, 2500);
 ```

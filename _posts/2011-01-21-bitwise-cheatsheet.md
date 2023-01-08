@@ -25,6 +25,8 @@ XOR | `X ^= Y;` | `X = X ^ Y;`
 LEFT-SHIFT | `X <<= Y;` | `X = X << Y;`
 RIGHT-SHIFT | `X >>= Y;` | `X = X >> Y;`
 
+<!--more-->
+
 ## Setting and Checking Bit-Flags
 
 ```c

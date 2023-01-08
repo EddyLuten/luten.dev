@@ -8,6 +8,8 @@ layout: single
 
 In an effort to produce a better performing multidimensional array, I would like to share the following with you. Say we have a Matrix (or multidimensional array) of 5 x 5 integer elements, M. In order to allocate such an array in C++, we use the following code:
 
+<!--more-->
+
 ```c++
 const size_t Width = 5;
 const size_t Height = 5;

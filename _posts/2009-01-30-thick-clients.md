@@ -8,6 +8,8 @@ Neil McAllister of InfoWorld recently made his [case against web-based applicati
 
 Having developed for both platforms (desktop and web) professionally, I can say with all certainty that Neil McAllister is wrong in his assertions.
 
+<!--more-->
+
 Web applications try to mimic the realtime behavior of desktop applications, there's no doubt about it. But the one thing that's to think about is: Would a desktop application scale in the 21th century?
 
 What I mean by this is: Would I be able to use my desktop application on Mac, Linux and Windows at the same time? With the exception of Java apps, the answer is a resounding "no".

@@ -12,6 +12,8 @@ layout: single
 
 **Remarks:** On windows, CRITICAL_SECTION objects cannot be shared cross-process. This means that the class is tied to your application or DLL process. Comments are in Doxygen/Javadoc style.
 
+<!--more-->
+
 ```c++
 #ifdef _WIN32
 #include <windows.h>

@@ -6,6 +6,8 @@ layout: single
 
 One of the things that C++ doesn't have out-of-the-box is events, which is not necessarily a bad thing. However, with the additions to the C++0x/C++11 specification, we can implement something like an event system found in higher level languages such as C# using relatively easy to use code.
 
+<!--more-->
+
 Please note that this is not the Observer pattern, and this may not be the best way of handling events — though it's easy to comprehend.
 
 The main things that we're going to use from the new spec are:

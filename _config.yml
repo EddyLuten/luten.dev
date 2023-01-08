@@ -93,7 +93,6 @@ plugins:
 jekyll-archives:
   enabled:
     - year
-    - month
   layout: posts
   permalinks:
     year: '/archive/'

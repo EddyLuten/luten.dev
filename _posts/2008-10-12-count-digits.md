@@ -6,6 +6,8 @@ layout: single
 
 Here's another little snippet that might come in handy in your programmatic travels. I'll show you an example of usage below, which might also be of interest to you. The code presented is in C, not C++. First, the code to count the amount of digits in an integer:
 
+<!--more-->
+
 ```c++
 const size_t intlen(long long int Num)
 {
