@@ -1,0 +1,119 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: luten.dev
+subtitle: Are blogs still a thing?
+email: eluten@pm.me
+description: >- # this means to ignore newlines until "baseurl:"
+  Programmer at large.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://luten.dev" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: eddyluten
+github_username:  EddyLuten
+linkedin_username: eddyluten
+mastodon_username: "@luten"
+permalink: /:title/
+breadcrumbs: true
+excerpt_separator: <!--more-->
+search: true
+timezone: America/Chicago
+paginate: 5
+
+author:
+  name     : "Eddy Luten"
+  avatar   : "/images/square.jpg"
+  bio      : "Still typing."
+  location : "USA"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eddyluten"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/EddyLuten"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@luten"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://mastodon.social/@luten"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eddyluten"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/EddyLuten"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      excerpt_separator: <!--more-->
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dirt"
+locale: "en-US"
+sass:
+  style: compressed
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - year
+    - month
+  layout: posts
+  permalinks:
+    year: '/archive/'
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
