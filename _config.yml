@@ -25,10 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Programmer at large.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://luten.dev" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: eddyluten
-github_username:  EddyLuten
-linkedin_username: eddyluten
-mastodon_username: "@luten"
 permalink: /:title/
 breadcrumbs: true
 excerpt_separator: <!--more-->
@@ -41,19 +37,11 @@ author:
   avatar   : "/images/square.jpg"
   bio      : "Still typing."
   location : "USA"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/eddyluten"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/EddyLuten"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.social/@luten"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://mastodon.social/@luten"
+  email    : eluten@pm.me
+  github   : EddyLuten
+  linkedin : eddyluten
+  twitter  : EddyLuten
+  mastodon : "@luten"
 
 footer:
   links:
