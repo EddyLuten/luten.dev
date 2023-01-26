@@ -4,8 +4,9 @@ title: Now
 permalink: /now/
 ---
 
-* [Reading](https://app.thestorygraph.com/profile/book_eddy) *The Drawing of the Three* by Stephen King
-* Thinking about and working on my [D&D campaign](https://bhreia.com/).
+* [Reading](https://app.thestorygraph.com/profile/book_eddy) *Call Me By Your Name* by André Aciman
+* Fleshing out an interesting business idea
+* Always working on my [D&D campaign](https://bhreia.com/).
 * Still building awesome stuff @ [Murj](https://murj.com)
 
-Updated: 2023-01-08
+Updated: 2023-01-26

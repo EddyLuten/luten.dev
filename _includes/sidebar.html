@@ -18,11 +18,11 @@
 {% endif %}
 
 {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-<h4><a href="/archive/">Archive</a></h4>
+<h4>Archive</h4>
 <ul>
   {% for year in postsInYear %}
   <li>
-      <a href="/archive/#{{ year.name }}">{{ year.name }} ({{ year.size }})</a>
+      <a href="/{{ year.name }}/">{{ year.name }} ({{ year.size }})</a>
       {% if page.date %}
         {% assign pageYear = page.date | date: "%Y" %}
         {% if pageYear == year.name %}

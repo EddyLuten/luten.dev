@@ -83,7 +83,7 @@ jekyll-archives:
     - year
   layout: posts
   permalinks:
-    year: '/archive/'
+    year: '/:year/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
