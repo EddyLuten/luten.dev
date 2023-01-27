@@ -6,6 +6,18 @@ permalink: /projects/
 
 Here are some personal projects I have worked on.
 
+* [Bhreia](https://bhreia.com/) &middot; 2021-present (unlicensed)
+
+    Bhreia is a fantasy setting for TTRPG games that I use in campaigns and one-shots.
+
+* [mkdocs-alias-plugin](https://pypi.org/project/mkdocs-alias-plugin/) &middot; 2022-present (MIT Licensed)
+
+    An MkDocs plugin allowing links to your pages using a custom alias such as `[[my-alias]]` or `[[my-alias|My Title]]`.
+
+* [mkdocs-categories-plugin](https://pypi.org/project/mkdocs-categories-plugin/) &middot; 2022-present (MIT Licensed)
+
+    An MkDocs plugin allowing for categorization of pages in your wiki. This plugin allows for multiple categories per page and will generate a category index page with links to each page within the category.
+
 * [lowpoly_bot](https://github.com/EddyLuten/lowpoly_bot) &middot; 2017-2019 (MIT Licensed)
 
     A deactivated Twitter bot that responded to anything posted to the #lowpoly hashtag, retweeting and following anyone that posted to it. Includes support for filtering out spammers, written in Python 3 with a SQLite database backend (included).
