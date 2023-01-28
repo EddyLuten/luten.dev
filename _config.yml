@@ -32,6 +32,9 @@ search: true
 timezone: America/Chicago
 paginate: 5
 
+twitter:
+  username: EddyLuten
+
 author:
   name     : "Eddy Luten"
   avatar   : "/images/square.jpg"

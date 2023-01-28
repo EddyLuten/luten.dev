@@ -3,6 +3,7 @@ title: The Drawing of the Three Review
 date:  2023-01-26 00:00:00 -0700
 layout: single
 tags: books
+twitter_image: /images/drawing-three.jpg
 ---
 
 ![The Drawing of the Three Book Cover](/images/drawing-three.jpg)
