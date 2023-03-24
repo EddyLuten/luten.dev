@@ -150,43 +150,43 @@ If you want to be successful in the future job market, it is important to develo
 >
 > Bard: Some examples of AI include:
 >
-> > Natural language processing (NLP): NLP is the ability of computers to understand and process human language.
+>> Natural language processing (NLP): NLP is the ability of computers to understand and process human language.
 >
-> > Machine learning: Machine learning is a type of AI that allows computers to learn without being explicitly programmed.
+>> Machine learning: Machine learning is a type of AI that allows computers to learn without being explicitly programmed.
 >
-> > Computer vision: Computer vision is the ability of computers to see and understand the world around them.
+>> Computer vision: Computer vision is the ability of computers to see and understand the world around them.
 >
 > User: What are the benefits of AI?
 >
 > Bard: The benefits of AI include:
 >
-> > Improved efficiency: AI can help to automate tasks that were once done by humans, which can lead to improved efficiency.
+>> Improved efficiency: AI can help to automate tasks that were once done by humans, which can lead to improved efficiency.
 >
-> > Increased accuracy: AI can help to make predictions or decisions that are more accurate than those made by humans.
+>> Increased accuracy: AI can help to make predictions or decisions that are more accurate than those made by humans.
 >
-> > Improved decision-making: AI can help to make better decisions by analyzing large amounts of data.
+>> Improved decision-making: AI can help to make better decisions by analyzing large amounts of data.
 >
 > User: What are the risks of AI?
 >
 > Bard: The risks of AI include:
 >
-> > Job loss: AI could lead to job loss, as machines become capable of doing tasks that were once done by humans.
+>> Job loss: AI could lead to job loss, as machines become capable of doing tasks that were once done by humans.
 >
-> > Bias: AI systems can be biased, which can lead to discrimination.
+>> Bias: AI systems can be biased, which can lead to discrimination.
 >
-> > Safety: AI systems can be dangerous, if they are not properly designed or controlled.
+>> Safety: AI systems can be dangerous, if they are not properly designed or controlled.
 >
 > User: What are some ways to mitigate the risks of AI?
 >
 > Bard: Some ways to mitigate the risks of AI include:
 >
-> > Developing AI systems that are fair and unbiased.
-> >
-> > Designing AI systems that are safe and secure.
-> >
-> > Educating people about the risks of AI.
-> >
-> > Developing ethical guidelines for the development and use of AI.
+>> Developing AI systems that are fair and unbiased.
+>>
+>> Designing AI systems that are safe and secure.
+>>
+>> Educating people about the risks of AI.
+>>
+>> Developing ethical guidelines for the development and use of AI.
 >
 > User: What is the future of AI?
 >
@@ -283,62 +283,71 @@ If you want to be successful in the future job market, it is important to develo
 
 Here is the transcript of our chat:
 
-    User: Hi
-
-    Bard: Hello! How can I help you today?
-
-    User: I want to ask you some questions about AI.
-
-    Bard: Sure. I can help you with that.
-
-    User: What is AI?
-
-    Bard: Artificial intelligence (AI) is a branch of computer science that deals with the creation of intelligent agents, which are systems that can reason, learn, and act autonomously.
-
-    User: How does AI work?
-
-    Bard: AI works by using algorithms to analyze data and to make predictions or decisions. Algorithms are sets of instructions that tell a computer what to do.
-
-    User: What are some examples of AI?
-
-    Bard: Some examples of AI include:
-
-        Natural language processing (NLP): NLP is the ability of computers to understand and process human language.
-        Machine learning: Machine learning is a type of AI that allows computers to learn without being explicitly programmed.
-        Computer vision: Computer vision is the ability of computers to see and understand the world around them.
-
-    User: What are the benefits of AI?
-
-    Bard: The benefits of AI include:
-
-        Improved efficiency: AI can help to automate tasks that were once done by humans, which can lead to improved efficiency.
-        Increased accuracy: AI can help to make predictions or decisions that are more accurate than those made by humans.
-        Improved decision-making: AI can help to make better decisions by analyzing large amounts of data.
-
-    User: What are the risks of AI?
-
-    Bard: The risks of AI include:
-
-        Job loss: AI could lead to job loss, as machines become capable of doing tasks that were once done by humans.
-        Bias: AI systems can be biased, which can lead to discrimination.
-        Safety: AI systems can be dangerous, if they are not properly designed or controlled.
-
-    User: What are some ways to mitigate the risks of AI?
-
-    Bard: Some ways to mitigate the risks of AI include:
-
-        Developing AI systems that are fair and unbiased.
-        Designing AI systems that are safe and secure.
-        Educating people about the risks of AI.
-        Developing ethical guidelines for the development and use of AI.
-
-    User: What is the future of AI?
-
-    Bard: The future of AI is uncertain. However, it is likely that AI will continue to develop and that it will have a significant impact on our lives.
-
-    User: Thank you for your time.
-
-    Bard: You're welcome. It was my pleasure to help.
+>  User: Hi
+>
+>  Bard: Hello! How can I help you today?
+>
+>  User: I want to ask you some questions about AI.
+>
+>  Bard: Sure. I can help you with that.
+>
+>  User: What is AI?
+>
+>  Bard: Artificial intelligence (AI) is a branch of computer science that deals with the creation of intelligent agents, which are systems that can reason, learn, and act autonomously.
+>
+>  User: How does AI work?
+>
+>  Bard: AI works by using algorithms to analyze data and to make predictions or decisions. Algorithms are sets of instructions that tell a computer what to do.
+>
+>  User: What are some examples of AI?
+>
+>  Bard: Some examples of AI include:
+>
+>>  Natural language processing (NLP): NLP is the ability of computers to understand and process human language.
+>
+>>  Machine learning: Machine learning is a type of AI that allows computers to learn without being explicitly programmed.
+>
+>>  Computer vision: Computer vision is the ability of computers to see and understand the world around them.
+>
+>  User: What are the benefits of AI?
+>
+>  Bard: The benefits of AI include:
+>
+>>  Improved efficiency: AI can help to automate tasks that were once done by humans, which can lead to improved efficiency.
+>
+>>  Increased accuracy: AI can help to make predictions or decisions that are more accurate than those made by humans.
+>
+>>  Improved decision-making: AI can help to make better decisions by analyzing large amounts of data.
+>
+>  User: What are the risks of AI?
+>
+>  Bard: The risks of AI include:
+>
+>>  Job loss: AI could lead to job loss, as machines become capable of doing tasks that were once done by humans.
+>
+>>  Bias: AI systems can be biased, which can lead to discrimination.
+>
+>>  Safety: AI systems can be dangerous, if they are not properly designed or controlled.
+>
+>  User: What are some ways to mitigate the risks of AI?
+>
+>  Bard: Some ways to mitigate the risks of AI include:
+>
+>>  Developing AI systems that are fair and unbiased.
+>
+>>  Designing AI systems that are safe and secure.
+>
+>>  Educating people about the risks of AI.
+>
+>>  Developing ethical guidelines for the development and use of AI.
+>
+>  User: What is the future of AI?
+>
+>  Bard: The future of AI is uncertain. However, it is likely that AI will continue to develop and that it will have a significant impact on our lives.
+>
+>  User: Thank you for your time.
+>
+>  Bard: You're welcome. It was my pleasure to help.
 
 ---
 
