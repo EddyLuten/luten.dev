@@ -35,6 +35,11 @@ paginate: 5
 twitter:
   username: EddyLuten
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-36CTYKX5DC"
+
 author:
   name     : "Eddy Luten"
   avatar   : "/images/square.jpg"
