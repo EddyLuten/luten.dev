@@ -22,13 +22,11 @@
       <script>
         document.addEventListener('DOMContentLoaded', () => {
           window.setInterval(() => {
-            console.log('tripdot');
-            let tripdot = document.getElementById('tripdot');
-            // if (!tripdot) return;
-            if (tripdot.innerHTML.length < 3)
-              tripdot.innerHTML += '.';
-            else
-              tripdot.innerHTML = '';
+            let tdot = document.getElementById('tripdot');
+            if (!tdot) return;
+            tdot.innerHTML = tdot.innerHTML.length < 3
+              ? tdot.innerHTML + '.'
+              : '';
           }, 1000);
         });
       </script>
