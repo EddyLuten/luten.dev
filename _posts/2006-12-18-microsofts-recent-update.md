@@ -2,6 +2,7 @@
 title: Microsoft.com’s Recent Update
 date:  2006-12-18 00:00:00 -0700
 layout: single
+tags: [Microsoft, AJAX]
 ---
 
 Conforming with the Ajax/Web 2.0 trend, Microsoft has updated their Microsoft.com homepage to a sleeker looking page stuffed with DHTML goodies. Yet as with most media-rich websites it’s very slow on older computers (probably the one you have in your office also ;) ) so it becomes quite tedious to navigate through.

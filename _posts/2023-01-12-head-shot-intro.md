@@ -2,7 +2,7 @@
 title: Head Shot the Rot Intro
 date:  2023-01-12 00:00:00 -0700
 layout: single
-tags: ttrpg
+tags: [TTRPG]
 ---
 
 ![Foundry Screenshot](/images/headshot.jpg)

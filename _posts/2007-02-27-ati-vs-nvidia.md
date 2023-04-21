@@ -2,6 +2,7 @@
 title: ATi too slow or NVIDIA too fast?
 date:  2007-02-07 00:00:00 -0700
 layout: single
+tags: [NVIDIA, ATi, AMD, DirectX]
 ---
 
 ![DirectX](/images/DX.gif)

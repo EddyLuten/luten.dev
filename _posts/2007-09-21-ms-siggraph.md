@@ -2,6 +2,7 @@
 title: "Microsoft Direct3D 10.1 Presentations at Siggraph 2007"
 date:  2007-09-21 00:00:00 -0700
 layout: single
+tags: [Siggraph, Microsoft]
 ---
 
 Below follows a link to all of Microsoft’s Siggraph 2007 presentations in one ZIP file.

@@ -2,6 +2,7 @@
 title: CriticalSection wrapper class
 date:  2008-08-22 00:00:00 -0700
 layout: single
+tags: [C, Tutorial, Win32]
 ---
 
 *2023 Update:* You probably don't want to use this code since there are likely some serious issues with it. But, fun fact: a major tech company reached out to me to clarify what the license for this is. So, if you want to screw yourself over and use it, let's say it's MIT licensed and call it a day.

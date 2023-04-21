@@ -2,6 +2,7 @@
 layout: single
 title:  "Elementary OS First Impressions"
 date:   2016-10-30 00:00:00 -0700
+tags: [Linux]
 ---
 
 ![elementary OS](/images/elementary-1.png)

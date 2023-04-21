@@ -20,27 +20,34 @@
 {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 <h4>Archive</h4>
 <ul>
+  {% assign thisYear = "now" | date: "%Y" %}
   {% for year in postsInYear %}
   <li>
       <a href="/{{ year.name }}/">{{ year.name }} ({{ year.size }})</a>
+      {% assign pageYear = "now" | date: "%Y" %}
       {% if page.date %}
         {% assign pageYear = page.date | date: "%Y" %}
-        {% if pageYear == year.name %}
-        <ul style="list-style: none; padding: 0;">
-          {% for post in year.items | where_exp: "item" %}
-            <li>
-              <a href="{{ post.url }}">
-                {{ post.title }}
-                ({{post.date | date: "%b %d"}})
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
+      {% endif %}
+      {% if pageYear == year.name or thisYear == year.name %}
+      <ul style="list-style: none; padding: 0;">
+        {% for post in year.items | where_exp: "item" %}
+          <li>
+            <a href="{{ post.url }}">
+              {{ post.title }}
+              ({{post.date | date: "%b %d"}})
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
       {% endif %}
   </li>
   {% endfor %}
 </ul>
+
+<h4>Common Tags</h4>
+<div class="tag-cloud">
+  {% tag_cloud font-size: 50 - 150%, threshold: 2 %}
+</div>
 
 </div>
 {% endif %}

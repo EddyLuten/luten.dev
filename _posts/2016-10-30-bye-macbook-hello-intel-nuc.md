@@ -2,6 +2,7 @@
 layout: single
 title:  "Bye MacBook, Hello Intel NUC"
 date:   2016-10-30 00:00:01 -0700
+tags: [Intel, Apple]
 ---
 
 For a while now, my 2011 13" i5 MacBook Air which I use for development purposes has been showing signs of pending death: flickering screen when moving the lid, excessive heat, inability to be charged, killing 2 replacement batteries and 3 chargers, slowing down with new OS X/macOS installs, etc. etc.

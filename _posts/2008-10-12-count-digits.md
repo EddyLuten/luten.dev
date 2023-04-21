@@ -2,6 +2,7 @@
 title: Amount of Digits in an Integer
 date:  2008-10-12 00:00:00 -0700
 layout: single
+tags: [C, Tutorial]
 ---
 
 Here's another little snippet that might come in handy in your programmatic travels. I'll show you an example of usage below, which might also be of interest to you. The code presented is in C, not C++. First, the code to count the amount of digits in an integer:

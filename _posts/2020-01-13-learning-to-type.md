@@ -2,7 +2,7 @@
 layout: single
 title:  "Learning to Type"
 date:   2020-01-13 00:00:00 -0700
-excerpt_separator: <!--more-->
+tags: [Whatever]
 ---
 <div class="center bottom-padded"><img src="/images/htt-2.jpg" /></div>
 

@@ -2,6 +2,7 @@
 title: "Another Saturday: Firefox, Zune and more"
 date:  2006-12-09 00:00:00 -0700
 layout: single
+tags: [Firefox, Zune, Microsoft, Nintendo]
 ---
 
 ## First Alpha release of Firefox 3

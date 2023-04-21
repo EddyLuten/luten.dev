@@ -2,6 +2,7 @@
 title: "OpenGL vs Direct3D: Where are we on Windows? (Win32)"
 date:  2011-02-25 00:00:00 -0700
 layout: single
+tags: [OpenGL, DirectX, Windows, Win32]
 ---
 
 It's almost weekend, and time for a lighthearted post on the two realtime 3D computer graphics libraries that are available on Windows in 2011: OpenGL and Direct3D. The reason I mention the year is simply because of the fact that two years from now, this information will be as untrue as the Wikipedia article[*](https://web.archive.org/web/20150223211220/http://en.wikipedia.org/wiki/Talk:Comparison_of_OpenGL_and_Direct3D) on this matter due to rapid hardware and software developments. But for now, let's bash it out.

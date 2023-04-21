@@ -2,6 +2,7 @@
 title: Flattening Multidimensional Arrays
 date:  2008-10-11 00:00:00 -0700
 layout: single
+tags: [C, Tutorial]
 ---
 
 **Edit:** Thank you, fixitman for the insightful comment; the code has been fixed to work with non-square arrays as well.

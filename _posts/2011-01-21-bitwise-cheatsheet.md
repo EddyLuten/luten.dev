@@ -2,6 +2,7 @@
 title: C Bitwise Operations Cheat Sheet
 date:  2011-01-21 00:00:00 -0700
 layout: single
+tags: [C, Tutorial]
 ---
 
 ## Operations Table

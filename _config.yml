@@ -81,12 +81,20 @@ plugins:
   - jekyll-sitemap
   - jekyll-archives
 
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+
 jekyll-archives:
   enabled:
-    - year
-  layout: posts
+    - years
+    - tags
+  layouts:
+    year: posts
+    tag: archive-taxonomy
   permalinks:
     year: '/:year/'
+    tag: /tags/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

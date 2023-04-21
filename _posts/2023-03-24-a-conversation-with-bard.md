@@ -2,7 +2,7 @@
 title: "A Conversation with Bard"
 date:  2023-03-24 00:00:00 -0700
 layout: single
-tags: ai
+tags: [AI]
 ---
 
 A sober conversation about AI and jobs with Google's brand new chat AI, Bard, turns into a bit of a mess at the end. I have some experience using ChatGPT but only got access to Bard today. I thought I'd record this to perhaps compare to interactions in the future.

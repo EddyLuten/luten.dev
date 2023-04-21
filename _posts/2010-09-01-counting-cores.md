@@ -2,6 +2,7 @@
 title: Counting Processor Cores and Threads
 date:  2010-09-01 00:00:00 -0700
 layout: single
+tags: [C, Tutorial, Win32]
 ---
 
 Here's a little snippet I'd like to share with you since there really isn't a good example online that shows you how to count the processor cores and threads on Microsoft Windows using the Windows API through C++.

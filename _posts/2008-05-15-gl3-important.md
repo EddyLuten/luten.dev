@@ -2,6 +2,7 @@
 title: Why OpenGL 3.0 is Important
 date:  2008-05-15 00:00:00 -0700
 layout: single
+tags: [OpenGL]
 ---
 
 Some questions have come up in regards to my last post, The Ghost of OpenGL 3.0, and one of them keeps popping out on top: Why do we need OpenGL 3.0 and What's wrong with OpenGL 2.1? This post will attempt to take you through the pre-published materials on the OpenGL API, version 3.0 and show you the major changes and differences. Or you could simple jump to the answer and conclusion without reading the features provided by OpenGL 3.0, if you don't feel like getting informed.

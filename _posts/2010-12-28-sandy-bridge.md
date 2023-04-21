@@ -2,6 +2,7 @@
 title: Thoughts on Sandy Bridge's HD 3000 IGP
 date:  2010-12-28 00:00:00 -0700
 layout: single
+tags: [Intel]
 ---
 
 Sandy Bridge is Intel's new microarchitecture, slated for release in January of 2011. Sandy Bridge processors will effectively phase-out the current lineup of processors, based on the LGA 1366 socket, with processors fitting a brand new socket, LGA 2011.

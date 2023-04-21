@@ -2,6 +2,7 @@
 layout: single
 title:  "PortAudio Panic and No Devices Found"
 date:   2017-02-14 00:00:00 -0700
+tags: [Linux]
 ---
 
 Leaving this here for the poor souls on Linux systems that run into errors accessing the default input or output devices using PortAudio and get nothing back.

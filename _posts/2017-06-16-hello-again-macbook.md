@@ -2,7 +2,7 @@
 layout: single
 title:  "Hello Again, Macbook"
 date:   2017-06-16 00:00:00 -0700
-excerpt_separator: <!--more-->
+tags: [Apple, Intel]
 ---
 
 ![Hello Again](/images/hello-again.jpg)

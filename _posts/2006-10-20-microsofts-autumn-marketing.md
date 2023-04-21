@@ -2,6 +2,7 @@
 title: Microsoft's Autumn Marketing
 date:  2006-10-20 00:00:00 -0700
 layout: single
+tags: [MSDN, Microsoft, Windows]
 ---
 
 Is it me or has this last season been the most productive one at Microsoft in a long time? First we get the new version of the DirectX SDK and now we finally have the final version of Internet Explorer 7, not to mention the plethora of CTPs that came out the last couple of weeks..

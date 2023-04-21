@@ -2,6 +2,7 @@
 title: "Hungarian Notation: What to do?"
 date:  2009-01-21 00:00:00 -0700
 layout: single
+tags: [Programming]
 ---
 
 Edit: FYI, by Hungarian notation, I mean Systems Hungarian such as bIsSucky.

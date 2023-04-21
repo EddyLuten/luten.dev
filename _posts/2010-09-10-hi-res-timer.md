@@ -2,6 +2,7 @@
 title: A High-Resolution Timer for Win32
 date:  2010-09-10 00:00:00 -0700
 layout: single
+tags: [C, Tutorial, Win32]
 ---
 
 This post lists the code for creating a high resolution timer for the Microsoft Windows platform. High resolution timers are often used in multimedia and entertainment applications for timing events up to the microsecond.

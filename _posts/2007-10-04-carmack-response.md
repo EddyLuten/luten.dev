@@ -2,6 +2,7 @@
 title: "id Software: John Carmack's Response to OpenGL issue"
 date:  2007-10-04 00:00:00 -0700
 layout: single
+tags: [idTech, id, DirectX, OpenGL, Linux]
 ---
 
 Recently I've created a post about how id Software will no longer use OpenGL as their primary graphics API for game development. Here's John Carmack's response to the rumors:

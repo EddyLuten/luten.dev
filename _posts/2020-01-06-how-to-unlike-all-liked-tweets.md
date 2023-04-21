@@ -2,7 +2,7 @@
 layout: single
 title:  "How to Unlike All Liked Tweets"
 date:   2020-01-06 00:00:00 -0700
-excerpt_separator: <!--more-->
+tags: [Twitter]
 ---
 
 Happy New Year! So you want to delete everything you've ever liked on Twitter?

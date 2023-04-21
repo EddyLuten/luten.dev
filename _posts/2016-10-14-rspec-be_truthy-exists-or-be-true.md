@@ -2,6 +2,7 @@
 layout: single
 title:  "RSpec be_truthy, exist, or be true?"
 date:   2016-10-14 00:00:00 -0700
+tags: [Ruby, RSpec]
 ---
 The documentation for RSpec is amazingly detailed, but sometimes falls a bit short on when to apply certain matchers. In many of the specs that I've reviewed, incorrect matchers were used to test for pure Boolean values.
 

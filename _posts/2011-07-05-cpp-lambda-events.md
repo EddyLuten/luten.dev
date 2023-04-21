@@ -2,6 +2,7 @@
 title: "C++ Events with lambda expressions, and std::function"
 date:  2011-07-05 00:00:00 -0700
 layout: single
+tags: [C, Tutorial]
 ---
 
 One of the things that C++ doesn't have out-of-the-box is events, which is not necessarily a bad thing. However, with the additions to the C++0x/C++11 specification, we can implement something like an event system found in higher level languages such as C# using relatively easy to use code.

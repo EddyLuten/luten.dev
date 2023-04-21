@@ -2,6 +2,7 @@
 title: Thick clients? Gimme a break.
 date:  2009-01-30 00:00:00 -0700
 layout: single
+tags: [Technology]
 ---
 
 Neil McAllister of InfoWorld recently made his [case against web-based applications](https://web.archive.org/web/20090206202204/http://weblog.infoworld.com/fatalexception/archives/2009/01/the_case_agains.html). He gives five reasons for companies not to use web based technologies.

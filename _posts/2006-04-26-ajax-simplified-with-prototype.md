@@ -2,6 +2,7 @@
 title: "AJAX: Simplified beyond belief with Prototype"
 date:  2006-04-26 00:00:00 -0700
 layout: single
+tags: [JavaScript, AJAX]
 ---
 
 Before reading this I assume you know your JavaScript.

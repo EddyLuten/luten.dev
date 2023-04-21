@@ -2,6 +2,7 @@
 title: Five that Fell
 date:  2006-07-06 00:00:00 -0700
 layout: single
+tags: [Games]
 ---
 
 ![King's Quest](/images/kq.jpeg)

@@ -2,6 +2,7 @@
 title: "BC42104: Variable ‘X' is used before it has been assigned a value."
 date:  2011-02-11 00:00:00 -0700
 layout: single
+tags: ["Visual Basic"]
 ---
 
 My dearest VB.NET programmers (and C# programmers up to a point), I once again have to inform you of one of my pet peeves. This is pretty much a follow-up to one of my previous posts, but more than two years after, I still work in projects from various online sources as well as professionally that are littered with the warnings about undefined variables:

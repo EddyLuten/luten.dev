@@ -1,0 +1,20 @@
+---
+layout: archive
+---
+{{content}}
+
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless
+    forloop.last %},{% endunless %}{% endfor %}{% endcapture %} {% assign tags_list
+    = site_tags | split:',' | sort_natural %}
+    
+    <ul id="tag-list" class="entry-meta inline-list">
+        {% for item in (0..site.tags.size) %}{% unless forloop.last %} {% capture
+        this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+        <li>
+            <a class="tag ripple-btn" href="/tags/{{this_word | slugify}}">
+                <span class="term">{{ this_word }}</span>
+                <span class="count">({{ site.tags[this_word].size }})</span>
+            </a>
+        </li>
+        {% endunless %}{% endfor %}
+    </ul>

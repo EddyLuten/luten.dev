@@ -2,6 +2,7 @@
 title: "id Software: bye OpenGL, bye Linux"
 date:  2007-09-19 00:00:00 -0700
 layout: single
+tags: [OpenGL, Linux, id, Games, idTech]
 ---
 
 John Carmack and the id Software company have always been great supporters of the OpenGL Graphics API. Alas, major development with the API [stops here](https://web.archive.org/web/20080201040242/http://www.beyond3d.com/content/news/462) for the game developer.

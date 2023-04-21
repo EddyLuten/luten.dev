@@ -2,6 +2,7 @@
 title: "Way Off Topic: Internet Taxes, November 1st 2007"
 date:  2007-09-20 00:00:00 -0700
 layout: single
+tags: [Internet]
 ---
 
 If you're an American citizen or resident and you're not aware of this issue, keep reading. Otherwise, take action. Links follow.

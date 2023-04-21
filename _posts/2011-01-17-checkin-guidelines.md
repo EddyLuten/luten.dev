@@ -2,6 +2,7 @@
 title: Five Quick Check-In Guidelines
 date:  2011-01-17 00:00:00 -0700
 layout: single
+tags: [Programming]
 ---
 
 If you work in a source controlled environment, these are the minimal guidelines that you'll have to stick to for making your teammates' lives a bit easier.

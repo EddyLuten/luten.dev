@@ -2,6 +2,7 @@
 title: "MSDN Event Boca Raton Review: 10/17/2006"
 date:  2006-10-17 00:00:00 -0700
 layout: single
+tags: [MSDN, Microsoft]
 ---
 
 Today me and one of my co-workers (not my boss as I announced earlier) went to the MSDN Event in Boca Raton. This was my first time at one of these events so think of this post as a first-timer. There were three sessions discussed at ther Event that I’d like to go over with you.

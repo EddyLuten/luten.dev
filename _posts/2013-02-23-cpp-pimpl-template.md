@@ -2,6 +2,7 @@
 title: C++ PImpl Template
 date:  2013-02-23 00:00:00 -0700
 layout: single
+tags: [C, Tutorial]
 ---
 
 If you're not familiar with the PImpl (private implementation) idiom, read [this Wikipedia article](https://web.archive.org/web/20150222044000/http://en.wikipedia.org/wiki/Opaque_pointer) first. While this is more or less "syntactic sugar" since the templates are expanded during compilation, but I think it makes for cleaner looking code.

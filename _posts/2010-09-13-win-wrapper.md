@@ -2,6 +2,7 @@
 title: "Creating a Window Wrapper Class: Redux"
 date:  2010-09-13 00:00:00 -0700
 layout: single
+tags: [C, Tutorial, Win32]
 ---
 
 Okay, so I know you're probably here because you searched for "window wrapper class" or something similar and expected the article that I use to host on Scriptionary that threw a bunch of C++ code at you for you to copy and paste. I regret to inform you that the article you were looking for has ceased to exist.

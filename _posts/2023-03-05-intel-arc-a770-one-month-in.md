@@ -2,7 +2,7 @@
 title: "Intel Arc A770: One Month In"
 date:  2023-03-05 00:00:00 -0700
 layout: single
-tags: graphics
+tags: [Intel, Arc, Games]
 twitter_image: /images/arc-box.jpg
 ---
 

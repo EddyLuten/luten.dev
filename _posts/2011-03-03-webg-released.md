@@ -2,6 +2,7 @@
 title: WebGL 1.0 Specification Released
 date:  2011-03-03 00:00:00 -0700
 layout: single
+tags: [WebGL]
 ---
 
 The Khronos group has released the final WebGL 1.0 specification today at the Game Developers Conference, here are the relevant links to check out:

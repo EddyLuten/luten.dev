@@ -2,6 +2,7 @@
 title: Direct3D, OpenGL and XNA Fieldguide
 date:  2008-04-11 00:00:00 -0700
 layout: single
+tags: [DirectX, OpenGL, XNA]
 ---
 
 A common novice's question in context with graphics programming is which API should I use?, Direct3D versus OpenGL or which API is better?. Getting familiar in the Graphics Programming world can be tough since many subjects don't have definitive answers. This article attempts to clear up some of the mysteries surrounding the APIs and compare them as far as it is possible. The individual APIs discussed in this document are Direct3D, OpenGL and XNA. If you're new to Graphics Programming in general, read the Graphics Programming article to get a clear understanding of what exactly these APIs do.

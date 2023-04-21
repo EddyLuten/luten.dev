@@ -1,0 +1,27 @@
+div.tag-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: calc(250px - 1em);
+}
+
+a.tag, a.tag:visited {
+    padding: 0 5px;
+    display: inline-block;
+    color: #333;
+}
+
+a.tag:hover {
+    opacity: 1.0;
+    color: #000;
+}
+
+a.tag.medium, a.tag.medium:visited {
+    opacity: 0.8;
+}
+
+a.tag.small, a.tag.small:visited {
+    opacity: 0.6;
+}

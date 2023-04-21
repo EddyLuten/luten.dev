@@ -2,7 +2,7 @@
 title: Call Me By Your Name Review
 date:  2023-01-28 00:00:00 -0700
 layout: single
-tags: books
+tags: [Books]
 twitter_image: /images/call-me.jpg
 ---
 
