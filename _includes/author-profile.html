@@ -19,6 +19,19 @@
       <div class="author__bio p-note" itemprop="description">
         {{ author.bio | markdownify }}
       </div>
+      <script>
+        document.addEventListener('DOMContentLoaded', () => {
+          window.setInterval(() => {
+            console.log('tripdot');
+            let tripdot = document.getElementById('tripdot');
+            // if (!tripdot) return;
+            if (tripdot.innerHTML.length < 3)
+              tripdot.innerHTML += '.';
+            else
+              tripdot.innerHTML = '';
+          }, 1000);
+        });
+      </script>
     {% endif %}
   </div>
 

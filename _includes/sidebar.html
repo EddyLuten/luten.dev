@@ -23,7 +23,7 @@
   {% assign thisYear = "now" | date: "%Y" %}
   {% for year in postsInYear %}
   <li>
-      <a href="/{{ year.name }}/">{{ year.name }} ({{ year.size }})</a>
+      <a href="/years/{{ year.name }}/">{{ year.name }} ({{ year.size }})</a>
       {% assign pageYear = "now" | date: "%Y" %}
       {% if page.date %}
         {% assign pageYear = page.date | date: "%Y" %}
