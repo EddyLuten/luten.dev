@@ -8,6 +8,15 @@ Here are some of my personal projects.
 
 ---
 
+🌍 [zag.zip](https://zag.zip/) &middot; 2023 (MIT Licensed)
+
+ZAG.zip is a simple in-browser app that allows quick creation of ZIP files on desktop and mobile. Written in a weekend to learn Mantine.
+
+{: style="text-align: center;"}
+[![EddyLuten/zag.zip - GitHub](https://gh-card.dev/repos/EddyLuten/zag.zip.svg)](https://github.com/EddyLuten/zag.zip)
+
+---
+
 [mkdocs-alias-plugin](https://pypi.org/project/mkdocs-alias-plugin/) &middot; 2022-present (MIT Licensed)
 
 An MkDocs plugin allowing links to your pages using a custom alias such as `[[my-alias]]` or `[[my-alias|My Title]]`.
