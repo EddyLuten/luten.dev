@@ -1,0 +1,10 @@
+article table {
+    display: table;
+    width: 100%;
+}
+
+article table th,
+article table td
+{
+    text-align: center;
+}
