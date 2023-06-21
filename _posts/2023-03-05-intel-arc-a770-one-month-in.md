@@ -20,7 +20,7 @@ The obvious choice was an NVIDIA RTX 3060, which does all of the above at about 
 
 The problem was that there were no Linux drivers available at the time, except for beta ones which were compatible with an older version of the kernel (5.17) with a promise of full compatibility in mid-February once kernel version 6.2 hit the streets. A bit of a gamble since my daily driver OS is Linux.
 
-I've never been an early adopter of GPUs, and [pined for Larrabee](/larrabee) back in the day, so, I bought it and built the computer a month ago. What could possibly go wrong?
+I've never been an early adopter of GPUs, and [pined for Larrabee](/larrabee/) back in the day, so, I bought it and built the computer a month ago. What could possibly go wrong?
 
 ## First Impressions
 

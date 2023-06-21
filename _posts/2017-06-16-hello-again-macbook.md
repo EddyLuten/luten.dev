@@ -9,11 +9,11 @@ tags: [Apple, Intel]
 
 Well, that didn't take too long.
 
-If you've been following along, you know that I've been trying to use Linux for my local development purposes on [an Intel NUC](/bye-macbook-hello-intel-nuc) (as well as a Lenovo laptop). I have to say, I still love the NUC and am going to find another use for it somehow, I'm just not sure what yet. However, Linux was somewhat of a disaster for me.
+If you've been following along, you know that I've been trying to use Linux for my local development purposes on [an Intel NUC](/bye-macbook-hello-intel-nuc/) (as well as a Lenovo laptop). I have to say, I still love the NUC and am going to find another use for it somehow, I'm just not sure what yet. However, Linux was somewhat of a disaster for me.
 
 <!--more-->
 
-I like to think that I really gave desktop Linux a fighting chance. I've been using it for all my development since [October of 2016](/elementary-os-first-impressions) in one flavor or another. I used elementaryOS until around February when I got fed up with its quirks and switched to Ubuntu. Well, I tried. It was an unending battle with drivers, external displays, wiped USB drives, failing installers, and this:
+I like to think that I really gave desktop Linux a fighting chance. I've been using it for all my development since [October of 2016](/elementary-os-first-impressions/) in one flavor or another. I used elementaryOS until around February when I got fed up with its quirks and switched to Ubuntu. Well, I tried. It was an unending battle with drivers, external displays, wiped USB drives, failing installers, and this:
 
 <a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/eddyluten/timelines/875852496966533120">Ubuntu Trash - Curated tweets by eddyluten</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
