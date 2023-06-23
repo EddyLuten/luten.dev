@@ -8,6 +8,15 @@ Here are some of my personal projects.
 
 ---
 
+[mkdocs-live-edit-plugin](https://pypi.org/project/mkdocs-live-edit-plugin/) &middot; 2023-present (MIT Licensed)
+
+An MkDocs plugin that allows editing pages directly from the browser.
+
+{: style="text-align: center;"}
+[![EddyLuten/mkdocs-live-edit-plugin - GitHub](https://gh-card.dev/repos/EddyLuten/mkdocs-live-edit-plugin.svg)](https://github.com/EddyLuten/mkdocs-live-edit-plugin)
+
+---
+
 🌍 [zag.zip](https://zag.zip/) &middot; 2023 (MIT Licensed)
 
 ZAG.zip is a simple in-browser app that allows quick creation of ZIP files on desktop and mobile. Written in a weekend to learn Mantine.
