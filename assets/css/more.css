@@ -8,3 +8,7 @@ article table td
 {
     text-align: center;
 }
+
+article code {
+    font-size: 0.75em;
+}

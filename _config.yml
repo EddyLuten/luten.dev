@@ -48,13 +48,13 @@ author:
   email    : eluten@pm.me
   github   : EddyLuten
   linkedin : eddyluten
-  twitter  : EddyLuten
+  bluesky  : luten.dev
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/eddyluten"
+    - label: "Bluesky"
+      icon: "fab fas fa-cloud"
+      url: "https://bsky.app/profile/luten.dev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EddyLuten"

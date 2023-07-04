@@ -10,6 +10,8 @@ twitter_image: /images/pypi.png
 
 I just can't seem to stop myself from making more MkDocs plugins. This time, it's a plugin that can help with editing by allowing you to edit your Markdown files straight from the browser:
 
+<!--more-->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8aUToGfXGVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Install [the package](https://pypi.org/project/mkdocs-live-edit-plugin/) by using pip:
