@@ -2,17 +2,17 @@
 title: Creating and Publishing a Bluesky Feed
 date:  2023-07-04 00:00:00 -0500
 layout: single
-tags: [Social, Bluesky, TTRPG]
+tags: [Social, Bluesky, TTRPG, Tutorial]
 twitter_image: /images/bluesky-feed.png
 ---
 
 ![Bluesky terminal feed output](/images/bluesky-feed.png)
 
-I was recently invited to join Bluesky, a new social media platform. This was mostly motivated by the nightmare that Twitter has become over the past year or so. One of Bluesky's nice features is the encouragement from the official team to build supplementary software. One way to do it is to build a custom feed. So, I set out to do just that: I built [a feed that serves all posts related to TTRPGs on Bluesky](https://bsky.app/profile/did:plc:56dp2st2pupnf7qsxko2qmmd/feed/ttrpg). Here's how I went about publishing mine on a DigitalOcean droplet using PM2, Nginx, and Let's Encrypt.
+I was recently invited to join Bluesky, a new social media platform. This was mostly motivated by the nightmare that Twitter has become over the past year or so. One of Bluesky's nice features is the encouragement from the official team to build supplementary software. One way to do it is to build a custom feed. So, I set out to do just that: I built [a feed that serves all posts related to TTRPGs on Bluesky](https://bsky.app/profile/did:plc:56dp2st2pupnf7qsxko2qmmd/feed/ttrpg){:target="_blank"}. Here's how I went about publishing mine on a [DigitalOcean](https://m.do.co/c/3767385e180a){:target="_blank"} droplet using PM2, Nginx, and Let's Encrypt.
 
 <!--more-->
 
-_Step One_ is simply to [fork this example repo](https://github.com/bluesky-social/feed-generator) and follow the directions in the README.md file to get it up and running.
+_Step One_ is simply to [fork this example repo](https://github.com/bluesky-social/feed-generator){:target="_blank"} and follow the directions in the README.md file to get it up and running.
 
 ## Firehose Subscription
 
@@ -49,7 +49,7 @@ You may need to restart the application if you're running it locally and change 
 
 ## Running Remotely
 
-Running a [Droplet on a DigitalOcean](https://m.do.co/c/3767385e180a) is the most affordable method I could find to run this (unless you have AWS credits to spare). I simply started the smallest instance available and used the Node.js template to get started. The machine image already comes with PM2, Git, and Nginx pre-installed.
+Running a [Droplet on a DigitalOcean](https://m.do.co/c/3767385e180a){:target="_blank"} is the most affordable method I could find to run this (unless you have AWS credits to spare). I simply started the smallest instance available and used the Node.js template to get started. The machine image already comes with PM2, Git, and Nginx pre-installed.
 
 If you enter your server's public IP address in your browsers, it will display the "Hello, World" app's output with a few useful links.
 
@@ -116,9 +116,9 @@ I run my feed on a custom subdomain, which is necessary for the next step: addin
 
 One of the requirements of hosting a custom Bluesky feed is that it must be served using SSL on port 443, the default HTTPS port. To do this, we'll use Let's Encrypt.
 
-DigitalOcean has [a detailed tutorial](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04) on how to do this, but I found that I only needed to do a few things since so much comes preconfigured on these Droplets.
+DigitalOcean has [a detailed tutorial](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04){:target="_blank"} on how to do this, but I found that I only needed to do a few things since so much comes preconfigured on these Droplets.
 
-Use your [favorite text editor](https://www.vim.org/) to modify the `server_name` entry of `/etc/nginx/sites-available/default` to match your subdomain.
+Use your [favorite text editor](https://www.vim.org/){:target="_blank"} to modify the `server_name` entry of `/etc/nginx/sites-available/default` to match your subdomain.
 
 Next, you'll need Certbot, which facilitates the process of getting an SSL cert, and the Nginx plugin for Certbot.
 
@@ -157,7 +157,7 @@ At this point, you should be able to view your feed using the HTTPS protocol sin
 
 You may notice that your feed's URL still contains the sample `did` provided by the base GitHub repo. Let's ensure that once published, this feed is tied to our user.
 
-To find your DID, [visit this URL](https://bsky.social/xrpc/com.atproto.identity.resolveHandle?handle=THE-USERNAME) and replace the username in the URL with your own.
+To find your DID, [visit this URL](https://bsky.social/xrpc/com.atproto.identity.resolveHandle?handle=THE-USERNAME){:target="_blank"} and replace the username in the URL with your own.
 
 Once you have your DID, create a `.env` file in your webroot and add the following lines, substituting the values for your own:
 
