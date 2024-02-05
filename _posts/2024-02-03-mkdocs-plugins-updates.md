@@ -1,5 +1,5 @@
 ---
-title: MkDocs Categories Plugin Update
+title: MkDocs Plugins Updates
 date:  2024-02-03 00:00:00 -0600
 layout: single
 tags: [Update, MkDocs]

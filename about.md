@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm **Eddy Luten** and I'm a **software engineer** with two decades of professional experience. Over the course of my career, I've discovered a passion for building systems that solve problems efficiently.
+Hi, I'm **Eddy Luten** and I'm a **software engineer** with two decades of professional experience. Throughout my career, I've discovered a passion for building systems that solve problems efficiently.
 
 I currently work at [Murj](https://www.murj.com/) as Application Development Manager where I get to work on interesting projects every day.
 
