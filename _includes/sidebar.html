@@ -32,9 +32,8 @@
       <ul style="list-style: none; padding: 0;">
         {% for post in year.items | where_exp: "item" %}
           <li>
-            <a href="{{ post.url }}">
+            <a href="{{ post.url }}" title='Posted on {{ post.date | date: "%Y-%m-%d"}}'>
               {{ post.title }}
-              ({{post.date | date: "%b %d"}})
             </a>
           </li>
         {% endfor %}

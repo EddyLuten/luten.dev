@@ -8,9 +8,9 @@ twitter_image: /images/foundryvtt-11-header.png
 
 ![Foundry Virtual Tabletop Screenshot](/images/foundryvtt-11-header.png)
 
-I absolutely **LOVE** [Foundry Virtual Tabletop](https://foundryvtt.com/){:target="_blank"} (FoundryVTT). It is by far the best $50 I've spent on my tabletop role-playing hobby in years. I can gush about the software on and on, and perhaps I will in a future post. This post, however, focuses on something a bit more practical.
+I absolutely **LOVE** [Foundry Virtual Tabletop](https://foundryvtt.com/) (FoundryVTT). It is by far the best $50 I've spent on my tabletop role-playing hobby in years. I can gush about the software on and on, and perhaps I will in a future post. This post, however, focuses on something a bit more practical.
 
-For years, I've hosted my instance on AWS, but with the change to their public IP address pricing, it doesn't make sense to stay with them since [DigitalOcean](https://m.do.co/c/3767385e180a){:target="_blank"} offers a beefier solution at a lower monthly cost.
+For years, I've hosted my instance on AWS, but with the change to their public IP address pricing, it doesn't make sense to stay with them since [DigitalOcean](https://m.do.co/c/3767385e180a) offers a beefier solution at a lower monthly cost.
 
 <!--more-->
 
@@ -26,7 +26,7 @@ At the time of writing (January 15, 2024), the current version of Foundry is 11,
 
 ## Setting up a Droplet
 
-Log in, or create a [DigitalOcean](https://m.do.co/c/3767385e180a){:target="_blank"} account, first. Once you've done that and logged in to your dashboard, create a droplet.
+Log in, or create a [DigitalOcean](https://m.do.co/c/3767385e180a) account, first. Once you've done that and logged in to your dashboard, create a droplet.
 
 ![Create a droplet via the dropdown menu](/images/foundryvtt-create-droplet.png)
 
@@ -88,7 +88,7 @@ Run the following command:
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
 
-Since this post is written at a fixed point in time, it is worth verifying that this command is still the correct one in the [NVM documentation](https://github.com/nvm-sh/nvm#installing-and-updating){:target="_blank"}.
+Since this post is written at a fixed point in time, it is worth verifying that this command is still the correct one in the [NVM documentation](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 Accept any prompts that are presented and once installed, execute the following command:
 
@@ -139,7 +139,7 @@ Second, create and `cd` into the Foundry installation directory, which simply ho
 mkdir foundryvtt && cd foundryvtt
 ```
 
-Next, log into [your account at foundryvtt.com](https://foundryvtt.com/){:target="_blank"}. Next, click on your username, then navigate to the section named "**Purchased Licenses**." Here, select the recommended release version from the dropdown, "**Linux/NodeJS**" as the operating system and click the "**Timed URL**" button. You now have a temporary download link to a Foundry installation package in your clipboard:
+Next, log into [your account at foundryvtt.com](https://foundryvtt.com/). Next, click on your username, then navigate to the section named "**Purchased Licenses**." Here, select the recommended release version from the dropdown, "**Linux/NodeJS**" as the operating system and click the "**Timed URL**" button. You now have a temporary download link to a Foundry installation package in your clipboard:
 
 ![Download FoundryVTT](/images/foundryvtt-download.png)
 
@@ -231,9 +231,9 @@ You should now be able to visit the same URL as before *without* having to suppl
 
 I'll leave you with a few notes:
 
-Whenever you change the server's configuration, you'll be reminded to restart Foundry. You can do so by running `pm2 restart foundryvtt`. I suggest reading up on [some basic PM2 commands](https://pm2.keymetrics.io/docs/usage/quick-start/){:target="_blank"} in case you run into issues or need to stop and start the process. For example, you'll probably want to know `pm2 log foundryvtt` if something goes wrong on the server.
+Whenever you change the server's configuration, you'll be reminded to restart Foundry. You can do so by running `pm2 restart foundryvtt`. I suggest reading up on [some basic PM2 commands](https://pm2.keymetrics.io/docs/usage/quick-start/) in case you run into issues or need to stop and start the process. For example, you'll probably want to know `pm2 log foundryvtt` if something goes wrong on the server.
 
-As I mentioned before, it's not a bad idea to backup your `foundrydata` directory occasionally. As of version 11, Foundry has built-in functionality to make manual snapshots. I highly suggest [reading the documentation](https://foundryvtt.com/article/backups/){:target="_blank"} on how to use this.
+As I mentioned before, it's not a bad idea to backup your `foundrydata` directory occasionally. As of version 11, Foundry has built-in functionality to make manual snapshots. I highly suggest [reading the documentation](https://foundryvtt.com/article/backups/) on how to use this.
 
 Also, make sure that both you and your players use passwords to gain access to your Foundry instance. Remember that your server is open to the entire internet, so make those passwords nontrivial.
 
