@@ -10,12 +10,12 @@ div.tag-cloud {
 a.tag, a.tag:visited {
     padding: 0 5px;
     display: inline-block;
-    color: #333;
+    /* color: #333; */
 }
 
 a.tag:hover {
     opacity: 1.0;
-    color: #000;
+    /* color: #000; */
 }
 
 a.tag.medium, a.tag.medium:visited {
