@@ -75,7 +75,8 @@ defaults:
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dark"
 date_format: "%Y-%m-%d"
 locale: "en-US"
