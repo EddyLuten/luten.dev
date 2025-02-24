@@ -86,6 +86,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-archives
   - jekyll-target-blank
+  - jekyll-include-cache
 
 tag_archive:
   type: jekyll-archives
